@@ -19,7 +19,7 @@ public class MontyHallProblem
     int showDoor;
     int chosenDoor;
     int count = 0;
-    while(count < 20000)
+    while(true) //If using a file change to while(count< number inputs)
     {
       count++;
       System.out.printf("Total Games:                         %1$.0f\n", totalGames);
