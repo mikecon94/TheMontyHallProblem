@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Random;
 
-public class MontyHallParadox
+public class MontyHallProblem
 {
   public static double totalGames = 0;
   public static double totalGamesWon = 0;
